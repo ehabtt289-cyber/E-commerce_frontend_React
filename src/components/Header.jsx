@@ -6,7 +6,7 @@ const Header = () => {
     <header className="header">
       <div className="container">
         <div className="logo">
-          <a href="">SUNIC</a>
+          <a href="">Ehab Naser</a>
         </div>
         <nav className={`main-nav ${isMenuOpen ? "active" : ""}`}>
           <ul>
