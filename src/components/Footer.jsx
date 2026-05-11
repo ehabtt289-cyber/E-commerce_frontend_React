@@ -52,7 +52,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2025 Sunic. All Rights Reserved.</p>
+          <p>&copy; 2025 Ehab, All Rights Reserved.</p>
         </div>
       </div>
     </footer>
