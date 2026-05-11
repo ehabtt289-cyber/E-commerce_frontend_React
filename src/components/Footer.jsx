@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-grid">
           <div className="footer-col">
-            <h3>SUNIC</h3>
+            <h3>Ehab Naser</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id odit veritatis tempora repellat dolore distinctio?.</p>
           </div>
           <div className="footer-col">
